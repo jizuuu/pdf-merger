@@ -1,8 +1,6 @@
 # 📑 PDF Merger  
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)  
-![License](https://img.shields.io/badge/license-MIT-green.svg)  
-![PyPI - PyPDF2](https://img.shields.io/badge/dependency-PyPDF2-orange.svg)  
+![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)  ![License](https://img.shields.io/badge/license-MIT-green.svg)  ![PyPI - PyPDF2](https://img.shields.io/badge/dependency-PyPDF2-orange.svg)  
 
 A simple Python automation script to merge multiple PDF files into a single file.
 
